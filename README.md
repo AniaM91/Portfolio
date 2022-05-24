@@ -1,6 +1,8 @@
 # Portfolio
 
 # O mnie
+Testerka manualna, poszukująca pierwszej pracy w świecie IT.
+
 
 # Technologie i Narzędzia 
 * [JIRa](https://www.atlassian.com/pl/software/jira)
@@ -17,6 +19,11 @@
 * znajomość podstawowych poleceń SQL
 * znajomość podstawowych poleceń POSTMAN
 * DevTools
+
+# Umiejętności nietechnologiczne
+* dokładność i skrupulatność
+* komuniaktywność i umiejętność pracy w zespole
+* szybkość w uczeniu się
 
 # Cerfyfikaty 
 * [Podstawy Manualnego Testowania Oprogramowania](https://www.udemy.com/certificate/UC-d62d5d1e-fd60-4e15-8ad9-99ef5a4b76cf/)
