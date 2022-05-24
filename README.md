@@ -19,10 +19,10 @@
 * DevTools
 
 # Cerfyfikaty 
-* [Podstawy Manualnego Testowania Oprogramowania]
-* [Praktyczny Kurs Testowania Oprogramowania]
-* [SQL]
-* [JIRA]
+* [Podstawy Manualnego Testowania Oprogramowania](https://www.udemy.com/certificate/UC-d62d5d1e-fd60-4e15-8ad9-99ef5a4b76cf/)
+* [Praktyczny Kurs Testowania Oprogramowania](https://www.udemy.com/certificate/UC-79a62a03-9130-49bd-b6bc-e63200c57862/)
+* [SQL](https://www.udemy.com/certificate/UC-f7d03661-637b-4816-ae02-3106145c355a/)
+* [JIRA](https://www.udemy.com/certificate/UC-2b316b68-13f1-4faa-830c-d53df1e50e4b/)
 
 # Projekty / Inicjatywy
 * [#MotherEmpower we współpracy z firmą BOSCH]
