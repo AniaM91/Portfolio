@@ -34,6 +34,13 @@
 * [Let's Do IT AKAdemy]
 * webianary Future Collars, MamoPracujwIT
 
+# Blogi / kanały na YT
+* testerzy.pl
+* Cherry IT
+* Testerka
+* remigiuszbednarczyk.pl
+* norbertjankowski - szkoła testera ( podcasty na YT)
+
 # Moja Dokumentacja Testowania
-* Przypadki testowe
-* Zgłaszanie defektów
+* [Przypadki testowe](https://drive.google.com/drive/u/1/folders/1wu7AVei0fOAsVhof5QblY7irO_LB85jC)
+* [Zgłaszanie defektów](https://drive.google.com/drive/folders/1ZhbUs0-wcRq_uk4sbneF2WjGPLIuy8He?usp=sharing)
