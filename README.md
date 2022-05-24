@@ -25,13 +25,13 @@
 * [JIRA](https://www.udemy.com/certificate/UC-2b316b68-13f1-4faa-830c-d53df1e50e4b/)
 
 # Projekty / Inicjatywy
-* [#MotherEmpower we współpracy z firmą BOSCH]
-* [HerWeyToIT]
-* [Tydzień Kariery w Talentis]
-* [Dzień Kariery Kobiet w IT]
-* [Warszawskie Dni Informatyki]
-* [Targi Pracy JOBicon - pracuj.pl]
-* [Let's Do IT AKAdemy]
+* [#MotherEmpower we współpracy z firmą BOSCH](https://www.linkedin.com/posts/anna-miechowicz_motherempower-mentoring-mamopracuj-activity-6914964576660811776-MFhj/?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [HerWeyToIT](https://www.linkedin.com/posts/mamopracuj_herwaytoit-mamopracujwit-activity-6899992890009882624-Mv2K/?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [Tydzień Kariery w Talentis](https://www.linkedin.com/posts/anna-miechowicz_pnw-ono-tydzieagmkariery-activity-6872218287674007552-QczA/?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [Dzień Kariery Kobiet w IT](https://www.linkedin.com/posts/mamopracuj_dzieagmkarierykobietywit-kobietywit-activity-6872523469158961152-6RRm/?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [Warszawskie Dni Informatyki](https://www.linkedin.com/showcase/warszawskie-dni-informatyki/)
+* [Targi Pracy JOBicon - pracuj.pl](https://www.linkedin.com/posts/anna-miechowicz_festiwalpracyjobicon-ofertypracy-festiwalpracyjobicon-activity-6913050901356150785-FE4C/?utm_source=linkedin_share&utm_medium=member_desktop_web)
+* [Let's Do IT AKAdemy](https://www.linkedin.com/posts/mamopracuj_mamopracujwit-doitabrakademy-doitmommy-activity-6861215111361695744-vjw6/?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * webianary Future Collars, MamoPracujwIT
 
 # Blogi / kanały na YT
