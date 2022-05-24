@@ -3,10 +3,10 @@
 # O mnie
 
 # Technologie i Narzędzia 
-* [JIRa]
-* [SQL]
-* [GIT]
-* [POSTMAN]
+* [JIRa](https://www.atlassian.com/pl/software/jira)
+* [SQL](https://www.microsoft.com/pl-pl/sql-server/sql-server-downloads)
+* [GIT](https://git-scm.com/)
+* [POSTMAN](https://www.postman.com/=
 * SCRUM
 
 # Umiejętności 
