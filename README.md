@@ -25,7 +25,7 @@ Testerka manualna, poszukująca pierwszej pracy w świecie IT.
 * komuniaktywność i umiejętność pracy w zespole
 * szybkość w uczeniu się
 
-# Cerfyfikaty 
+# Certyfikaty 
 * [Podstawy Manualnego Testowania Oprogramowania](https://www.udemy.com/certificate/UC-d62d5d1e-fd60-4e15-8ad9-99ef5a4b76cf/)
 * [Praktyczny Kurs Testowania Oprogramowania](https://www.udemy.com/certificate/UC-79a62a03-9130-49bd-b6bc-e63200c57862/)
 * [SQL](https://www.udemy.com/certificate/UC-f7d03661-637b-4816-ae02-3106145c355a/)
