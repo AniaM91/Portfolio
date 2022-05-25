@@ -49,5 +49,5 @@ Testerka manualna, poszukująca pierwszej pracy w świecie IT.
 * norbertjankowski - szkoła testera ( podcasty na YT)
 
 # Moja Dokumentacja Testowania
-* [Przypadki testowe](https://drive.google.com/drive/u/1/folders/1wu7AVei0fOAsVhof5QblY7irO_LB85jC)
+* [Przypadki testowe](https://github.com/AniaM91/Portfolio/tree/main/Przypadki%20testowe)
 * [Zgłaszanie defektów](https://drive.google.com/drive/folders/1ZhbUs0-wcRq_uk4sbneF2WjGPLIuy8He?usp=sharing)
