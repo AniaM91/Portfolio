@@ -50,4 +50,4 @@ Testerka manualna, poszukująca pierwszej pracy w świecie IT.
 
 # Moja Dokumentacja Testowania
 * [Przypadki testowe](https://github.com/AniaM91/Portfolio/tree/main/Przypadki%20testowe)
-* [Zgłaszanie defektów](https://drive.google.com/drive/folders/1ZhbUs0-wcRq_uk4sbneF2WjGPLIuy8He?usp=sharing)
+* [Zgłaszanie defektów](https://github.com/AniaM91/Portfolio/tree/main/Zg%C5%82oszone%20defekty)
