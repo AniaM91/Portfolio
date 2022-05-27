@@ -1,7 +1,12 @@
 # Portfolio
 
 # O mnie
-Testerka manualna, poszukująca pierwszej pracy w świecie IT.
+Cześć, 
+skoro tutaj jesteś to znaczy, że chciałbyś poznać mnie bliżej - a dokładniej - zobaczyć moje testerskie osiągnięcia i prace. 
+
+Poniżej znajdziesz najważniejsze informacje. 
+
+W razie "W" zapraszam do kontaktku ☻
 
 
 # Technologie i Narzędzia 
