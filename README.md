@@ -27,7 +27,7 @@ W razie "W" zapraszam do kontaktku ☻
 
 # Umiejętności nietechnologiczne
 * dokładność i skrupulatność
-* komuniaktywność i umiejętność pracy w zespole
+* komuniktywność i umiejętność pracy w zespole
 * szybkość w uczeniu się
 
 # Certyfikaty 
@@ -44,7 +44,7 @@ W razie "W" zapraszam do kontaktku ☻
 * [Warszawskie Dni Informatyki](https://www.linkedin.com/showcase/warszawskie-dni-informatyki/)
 * [Targi Pracy JOBicon - pracuj.pl](https://www.linkedin.com/posts/anna-miechowicz_festiwalpracyjobicon-ofertypracy-festiwalpracyjobicon-activity-6913050901356150785-FE4C/?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * [Let's Do IT AKAdemy](https://www.linkedin.com/posts/mamopracuj_mamopracujwit-doitabrakademy-doitmommy-activity-6861215111361695744-vjw6/?utm_source=linkedin_share&utm_medium=member_desktop_web)
-* webianary Future Collars, MamoPracujwIT
+* webinary Future Collars, MamoPracujwIT
 
 # Blogi / kanały na YT
 * testerzy.pl
