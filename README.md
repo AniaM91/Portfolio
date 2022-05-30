@@ -23,8 +23,7 @@ W razie "W" zapraszam do kontaktku ☻
 * testowanie oprogramowania 
 * znajomość metodologi pracy w SCRUM
 * znajomość podstawowych poleceń SQL
-* znajomość podstawowych poleceń POSTMAN
-* DevTools
+* DevTools - podstawowa znajomość
 * podstawowa znajomość GIT
 * znajomość podstawych poleceń REST API ( Postman) 
 * podstawowa znajomość protokołu HTTP
