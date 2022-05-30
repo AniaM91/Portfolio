@@ -3,6 +3,7 @@
 # O mnie
 Cześć, 
 skoro tutaj jesteś to znaczy, że chciałbyś poznać mnie bliżej - a dokładniej - zobaczyć moje testerskie osiągnięcia i prace. 
+Nie posiadam doświadczenia komercyjnego - jednak testuje we własnym zakresie.
 
 Poniżej znajdziesz najważniejsze informacje. 
 
@@ -24,6 +25,9 @@ W razie "W" zapraszam do kontaktku ☻
 * znajomość podstawowych poleceń SQL
 * znajomość podstawowych poleceń POSTMAN
 * DevTools
+* podstawowa znajomość GIT
+* znajomość podstawych poleceń REST API ( Postman) 
+* podstawowa znajomość protokołu HTTP
 
 # Umiejętności nietechnologiczne
 * dokładność i skrupulatność
