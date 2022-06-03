@@ -1,0 +1,20 @@
+1. Wypisz nazwiska pierwszych 2 użytkowników którzy są najmłodsi  
+ 
+SELECT TOP 2 * 
+FROM Users
+ORDER BY Age ASC
+
+
+2. Wypisz wszystkie dane użytkowników którzy są poniżej 18 roku lub powyżej 30 i mieszkają w Polsce
+
+Select *
+from users 
+where Age < 18 OR Age > 30 AND country = 'Poland'
+
+
+3. Wypisz Imiona użytkowników w kolejności alfabetycznej
+
+Select *
+from users 
+ORDER by name ASC
+
