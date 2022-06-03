@@ -61,4 +61,4 @@ W razie "W" zapraszam do kontaktku ☻
 * [Zgłaszanie defektów](https://github.com/AniaM91/Portfolio/tree/main/Zg%C5%82oszone%20defekty)
 * [SQL - ćwiczenia](https://github.com/AniaM91/Portfolio/tree/main/SQL)
 * [Rest API - Postman - ćwiczenia](https://github.com/AniaM91/Portfolio/tree/main/REST%20API)
-* [JIRA - ćwiczenia]
+* [JIRA - ćwiczenia](https://github.com/AniaM91/Portfolio/tree/main/JIRA)
