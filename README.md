@@ -59,3 +59,4 @@ W razie "W" zapraszam do kontaktku ☻
 # Moja Dokumentacja Testowania
 * [Przypadki testowe](https://github.com/AniaM91/Portfolio/tree/main/Przypadki%20testowe)
 * [Zgłaszanie defektów](https://github.com/AniaM91/Portfolio/tree/main/Zg%C5%82oszone%20defekty)
+* [SQL - ćwiczenia](https://github.com/AniaM91/Portfolio/tree/main/SQL)
